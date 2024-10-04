@@ -1,13 +1,11 @@
-This project is based on the main interface of atm that provides the necessary features of it.
-At first it opens a login interface where it will ask for the users pin and .If it is a new user it will give an option for sign up.
-The sign up page will take some necessary information from the user and will store it in database.
-After login the user will find some services that the atm can provide.
-The features offered are following-
-1.Balance Enquiry 
-2.Deposit
-3.Fast Cash
-4.Mini Statement
-5.Pin Change
-6.Withdrwal
-I have tried to give an easy and proper look to the interface that helps any person to identify there needs.
-Thank You.
+The primary ATM interface, which offers all of its functions, serves as the foundation for this project.
+It first displays a login screen asking for the user's card number and pin.It will provide a sign-up option if the user is new.The user will be required to provide certain information on the sign-up page, which will be stored in a database.
+The user will see a list of services that the ATM can offer after logging in.
+The following functionalities are available:
+1. Quick Cash 3. Deposit 2. Balance Inquiry
+4. Brief Proclamation
+5. Switching Pins
+6. Withdrawal
+I've made an effort to design an interface that is simple to use and appropriately identifies the demands of any user.
+I'm grateful.
+
